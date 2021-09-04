@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en BackgroundParticles hacer snaphshot del componente 1`] = `
+<f
+  canvasClassName="background"
+  height="100%"
+  id="tsparticles"
+  params={
+    Object {
+      "interactivity": Object {
+        "events": Object {
+          "onclick": Object {
+            "enable": true,
+            "mode": "repulse",
+          },
+          "onhover": Object {
+            "enable": true,
+            "mode": "bubble",
+          },
+        },
+        "modes": Object {
+          "bubble": Object {
+            "distance": 250,
+            "duration": 2,
+            "opacity": 0,
+            "size": 0,
+          },
+          "repulse": Object {
+            "distance": 400,
+            "duration": 4,
+          },
+        },
+      },
+      "particles": Object {
+        "line_linked": Object {
+          "enable": false,
+        },
+        "move": Object {
+          "direction": "top",
+          "out_mode": "out",
+          "random": true,
+          "speed": 1,
+        },
+        "number": Object {
+          "density": Object {
+            "enable": false,
+          },
+          "value": 160,
+        },
+        "size": Object {
+          "anim": Object {
+            "size_min": 0.3,
+            "speed": 4,
+          },
+          "random": true,
+          "value": 3,
+        },
+      },
+    }
+  }
+  style={Object {}}
+  width="100%"
+/>
+`;

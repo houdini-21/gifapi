@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en GifExpertApp debe de mostrar una lista de categorias 1`] = `
+<div
+  className="principal__body"
+>
+  <BackgroundParticles />
+  <div
+    className="principal__header"
+  >
+    <h2
+      className="title"
+    >
+      GifExpertApp
+    </h2>
+    <AddCatergories
+      setCategories={[Function]}
+    />
+  </div>
+  <div
+    className="box__items-category"
+    key="0"
+  >
+    <h3
+      className="title__category"
+    >
+      silicon valley
+    </h3>
+    <GifGrid
+      category="silicon valley"
+    />
+  </div>
+</div>
+`;
+
+exports[`pruebas en GifExpertApp haciendo snapshot del componente 1`] = `
+<div
+  className="principal__body"
+>
+  <BackgroundParticles />
+  <div
+    className="principal__header"
+  >
+    <h2
+      className="title"
+    >
+      GifExpertApp
+    </h2>
+    <AddCatergories
+      setCategories={[Function]}
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en gridgif debe de mostrar el componente correctamente 1`] = `
+<div
+  className="card__item  animate__animated animate__fadeInUp"
+>
+  <img
+    alt="silicon valley"
+    className="card__item-img"
+    src="https://github.com/houdini-21"
+  />
+  <p
+    className="card__item-title"
+  >
+    silicon valley
+  </p>
+</div>
+`;

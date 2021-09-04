@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en AddCatergories debe de mostrar el componente 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <p />
+  <input
+    className="input__categories"
+    onChange={[Function]}
+    placeholder="search category"
+    type="text"
+    value=""
+  />
+</form>
+`;
